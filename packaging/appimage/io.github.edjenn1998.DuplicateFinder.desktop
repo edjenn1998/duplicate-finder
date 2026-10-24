@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Duplicate Finder
+Comment=Find exact duplicate files and review extra copies
+Exec=AppRun
+Icon=io.github.edjenn1998.DuplicateFinder
+Terminal=false
+Categories=Utility;FileTools;

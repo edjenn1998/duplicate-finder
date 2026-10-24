@@ -1,0 +1,14 @@
+.venv*/
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.pytest_cache/
+.coverage
+build/
+dist/
+*.AppImage
+*.AppDir/
+.env
+.env.*
+!.env.example
+*.log
